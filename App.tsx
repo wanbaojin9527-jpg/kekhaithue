@@ -156,7 +156,7 @@ const App: React.FC = () => {
           <div className="bg-indigo-900 p-6 text-white flex items-center justify-between">
             <div>
               <h2 className="text-xl font-bold flex items-center gap-2 tracking-tight uppercase">BỘ CÔNG CỤ CHỈNH SỬA</h2>
-              <p className="text-slate-400 text-[10px] uppercase font-bold tracking-widest">Sửa tại đây -> Copy JSON -> Dán vào config.ts</p>
+              <p className="text-slate-400 text-[10px] uppercase font-bold tracking-widest">Sửa tại đây → Copy JSON → Dán vào config.ts</p>
             </div>
             <button onClick={() => setIsEditMode(false)} className="text-slate-400 hover:text-white"><X size={24} /></button>
           </div>

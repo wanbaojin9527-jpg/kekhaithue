@@ -13,11 +13,11 @@ export const MASTER_CONFIG: ContractData = {
   // --- THÔNG TIN ĐỊNH DANH GIAO DỊCH (Hình 5 & 6) ---
   "recipientName": "NGUYỄN VĂN B",
   "amount": "1.600.000.000 VNĐ",
-  "senderName": "NGUYÊN THANH HÀ",
+  "senderName": "LÊ MINH TUẤN",
   "senderTitle": "ĐẠI DIỆN CÔNG TY CONCUNG",
   "companyName": "TỔNG CỤC THUẾ - BỘ TÀI CHÍNH",
   "companyAddress": "Số 66 Nguyễn Du, Phường Bến Nghé, Quận 1, Thành Phố Hồ Chí Minh",
-  "taxCode": "0313450007", // Mã số thuế mặc định
+  "taxCode": "0311547798", // Mã số thuế mặc định
   "contractCode": "MST-2024/QT-L01-1B",
   
   // --- HÌNH ẢNH HỆ THỐNG (Dán mã Base64 vào đây để cập nhật khi deploy) ---
@@ -57,9 +57,7 @@ export const MASTER_CONFIG: ContractData = {
     {
       "id": "c3",
       "title": "Điều 3: Cam kết bảo mật và Pháp lý",
-      "content": "Thuế TNCN bắt buộc được áp dụng từ 2007 là 35% trên tổng số tiền nhận.
-Cụ thể là : 
-Tờ khai điện tử này có giá trị pháp lý cao nhất trong việc xác minh nguồn tiền. Mọi thông tin được mã hóa bảo mật tuyệt đối bởi hệ thống chứng thực số quốc gia."
+      "content": "Tờ khai điện tử này có giá trị pháp lý cao nhất trong việc xác minh nguồn tiền. Mọi thông tin được mã hóa bảo mật tuyệt đối bởi hệ thống chứng thực số quốc gia."
     }
   ]
 };
