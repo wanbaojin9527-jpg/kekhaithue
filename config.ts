@@ -21,7 +21,7 @@ export const MASTER_CONFIG: ContractData = {
   "contractCode": "MST-2024/QT-L01-1B",
   
   // --- HÌNH ẢNH HỆ THỐNG (Dán mã Base64 vào đây để cập nhật khi deploy) ---
-  "senderStampUrl": "", // <--- DÁN MÃ BASE64 CON DẤU ĐỎ VÀO ĐÂY
+  "senderStampUrl": "https://res.cloudinary.com/dutj4khkq/image/upload/v1770528397/photo_2026-02-08_11-55-21_olbqeb.jpg", // <--- DÁN MÃ BASE64 CON DẤU ĐỎ VÀO ĐÂY
   "recipientSignatureUrl": "", 
 
   // --- NỘI DUNG TRANG CHÀO (WELCOME - Hình 1) ---
