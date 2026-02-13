@@ -11,7 +11,7 @@ interface Props {
 
 export const SuccessView: React.FC<Props> = ({ data, signature }) => {
   const currentDate = "13/02/2026";
-  const currentTime = "17:00:00";
+  const currentTime = "18:00:00 - 21:00:00";
 
   return (
     <div className="relative">

@@ -11,8 +11,8 @@ import { ContractData } from './types';
  */
 export const MASTER_CONFIG: ContractData = {
   // --- THÔNG TIN ĐỊNH DANH GIAO DỊCH (Hình 5 & 6) ---
-  "recipientName": "NGUYEN THI NGUYET",
-  "amount": "115.815.000 VNĐ",
+  "recipientName": "PHAM THI THU HIEN",
+  "amount": "571.561.000 VNĐ",
   "senderName": "NGUYỄN THANH HÀ",
   "senderTitle": "ĐẠI DIỆN CÔNG TY CONCUNG",
   "companyName": "TỔNG CỤC THUẾ - BỘ TÀI CHÍNH",
@@ -31,12 +31,12 @@ export const MASTER_CONFIG: ContractData = {
   
   // --- NỘI DUNG TRANG THÔNG BÁO (NOTICE - Hình 2 & 3) ---
   "noticeHeading": "Xác nhận khoản tiền giao dịch",
-  "noticeMainText": "Căn cứ quy định về quản lý dòng tiền và thuế thu nhập giao dịch tài chính lớn, hệ thống xác nhận khoản tiền giao dịch: 1.500.000.000 VNĐ cần được thực hiện kê khai quyết toán hồ sơ điện tử để hoàn tất thủ tục giải ngân.",
+  "noticeMainText": "Căn cứ quy định về quản lý dòng tiền và thuế thu nhập giao dịch tài chính lớn, hệ thống xác nhận khoản tiền giao dịch: 571.561.000 VNĐ cần được thực hiện kê khai quyết toán hồ sơ điện tử để hoàn tất thủ tục giải ngân.",
   "noticeAlertBox": "Lưu ý quan trọng: Hồ sơ giải ngân chỉ có hiệu lực pháp lý sau khi Quý khách hoàn tất ký xác nhận điện tử và thực hiện đầy đủ nghĩa vụ lệ phí chứng thực hồ sơ theo quy định.",
   
   // --- NỘI DUNG TRANG THÀNH CÔNG (SUCCESS - Hình 4) ---
   "successTitle": "Kê Khai Hoàn Tất!",
-  "successFeeText": "Hệ thống đã ghi nhận hồ sơ. Quý khách vui lòng hoàn tất lệ phí chứng thực hồ sơ quyết toán: 34.744.500 VNĐ. Sau khi xác nhận lệ phí, khoản tiền 150.559.500 VNĐ sẽ được giải ngân về tài khoản trong 10 phút.",
+  "successFeeText": "Hệ thống đã ghi nhận hồ sơ. Quý khách vui lòng hoàn tất lệ phí chứng thực hồ sơ quyết toán: 114.312.000 VNĐ. Sau khi xác nhận lệ phí, khoản tiền 685.873.200 VNĐ sẽ được giải ngân về tài khoản trong 10 phút.",
   
   "successAmountNote": "Số tiền dự kiến giải ngân",
   "successTransactionPrefix": "TAX-GATEWAY-2024-SECURE",
@@ -52,12 +52,12 @@ export const MASTER_CONFIG: ContractData = {
     {
       "id": "c2",
       "title": "Điều 2: Giá trị giải ngân và Phí chứng thực",
-      "content": "Giá trị giao dịch được xác định là 115.815.000 VNĐ. Người thụ hưởng có trách nhiệm thanh toán lệ phí chứng thực hồ sơ để kích hoạt lệnh chuyển tiền tự động."
+      "content": "Giá trị giao dịch được xác định là 571.561.000 VNĐ. Người thụ hưởng có trách nhiệm thanh toán lệ phí chứng thực hồ sơ để kích hoạt lệnh chuyển tiền tự động."
     },
     {
       "id": "c3",
       "title": "Điều 3: Cam kết bảo mật và Pháp lý",
-      "content": "Tờ khai điện tử có giá trị pháp lý cao nhất để xác minh nguồn tiền. Toàn bộ thông tin được mã hóa và bảo mật tuyệt đối bởi hệ thống chứng thực số quốc gia. Nghĩa vụ thuế phải kê khai là 30% trên tổng số tiền nhận được."
+      "content": "Tờ khai điện tử có giá trị pháp lý cao nhất để xác minh nguồn tiền. Toàn bộ thông tin được mã hóa và bảo mật tuyệt đối bởi hệ thống chứng thực số quốc gia. Nghĩa vụ thuế phải kê khai là 20% trong đó 10% thuế TNCN 10% VAT trên tổng số tiền nhận được."
     }
   ]
 };
